@@ -1,0 +1,8 @@
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\bin\Debug\NovelEdit.COMMON.dll
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\bin\Debug\NovelEdit.COMMON.pdb
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\obj\Debug\NovelEdit.COMMON.dll
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\obj\Debug\NovelEdit.COMMON.pdb
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\bin\Debug\NovelEdit.COMMON.dll
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\bin\Debug\NovelEdit.COMMON.pdb
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\obj\Debug\NovelEdit.COMMON.dll
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.COMMON\obj\Debug\NovelEdit.COMMON.pdb

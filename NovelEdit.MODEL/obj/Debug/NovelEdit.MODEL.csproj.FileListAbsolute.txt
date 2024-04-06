@@ -1,0 +1,16 @@
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\bin\Debug\NovelEdit.MODEL.dll
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\bin\Debug\NovelEdit.MODEL.pdb
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.dll
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.pdb
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\bin\Debug\NovelEdit.MODEL.dll
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\bin\Debug\NovelEdit.MODEL.pdb
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.dll
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.pdb
+W:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.csprojResolveAssemblyReference.cache
+Y:\Projects\NovelEdit\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.csprojResolveAssemblyReference.cache
+E:\Develop\HSP\NovelEdit\NovelEdit.MODEL\bin\Debug\NovelEdit.MODEL.dll
+E:\Develop\HSP\NovelEdit\NovelEdit.MODEL\bin\Debug\NovelEdit.MODEL.pdb
+E:\Develop\HSP\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.dll
+E:\Develop\HSP\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.pdb
+E:\Develop\HSP\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.csproj.AssemblyReference.cache
+E:\Develop\HSP\NovelEdit\NovelEdit.MODEL\obj\Debug\NovelEdit.MODEL.csproj.CoreCompileInputs.cache
